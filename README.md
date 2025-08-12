@@ -27,7 +27,7 @@ jupyter notebook Task1_Regression.ipynb
 
 Analyse retail sales data using **linear algebra** and **regression techniques** to identify **trends**, **patterns**, and **predict future sales**.
 
----
+
 
 ##  Dataset
 
@@ -41,7 +41,7 @@ Analyse retail sales data using **linear algebra** and **regression techniques**
   * `Marketing Expenditure`
   * `Region`
 
----
+
 
 ##  Process
 
@@ -78,16 +78,16 @@ Analyse retail sales data using **linear algebra** and **regression techniques**
   * Mean Squared Error (MSE)
   * R² Score
 
----
+
 
 ##  Results
 
 * **Strong positive correlation** between marketing expenditure, products sold, and sales amount
 * Model achieved a **good R² score**, indicating strong predictive capability
 
----
 
-## 🛠 Tools & Libraries
+
+##  Tools & Libraries
 
 * **Python**
 * **pandas**
@@ -96,13 +96,13 @@ Analyse retail sales data using **linear algebra** and **regression techniques**
 * **seaborn**
 * **scikit-learn**
 
----
+
 
 ##  Conclusion
 
 The regression model provides **insights into factors influencing sales** and can be used for **forecasting** and **optimizing marketing budgets**.
 
----
+
 
 # Task 2 – Statistical Decision Making
 
@@ -110,7 +110,7 @@ The regression model provides **insights into factors influencing sales** and ca
 
 Analyse production data to identify **factors influencing product quality** using statistical techniques.
 
----
+
 
 ##  Process
 
@@ -129,7 +129,7 @@ Analyse production data to identify **factors influencing product quality** usin
 * **Suggest strategies for improving quality**
   Provided actionable recommendations based on significant factors.
 
----
+
 
 ##  Tools & Libraries
 
@@ -141,7 +141,7 @@ Analyse production data to identify **factors influencing product quality** usin
 * **scipy**
 * **statsmodels**
 
----
+
 
 ##  Conclusion
 
