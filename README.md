@@ -1,38 +1,35 @@
-Perfect — I’ll integrate **Task 2** into your README so it flows right after Task 1 in the same consistent Markdown style.
-Here’s the **updated combined README** for **Task 1 and Task 2**:
 
-````markdown
+
 # Task 1 – Basics of Data Analytics (Sales Data Analysis)
 
-## 📌 Getting Started
+## Getting Started
 To get started with the project, clone the repository and open the notebook.
 
-```bash
+
 git clone https://github.com/yourusername/sales-intelligence.git
 cd sales-intelligence
-````
+
 
 Install the required dependencies:
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 Open the Jupyter Notebook:
 
-```bash
+
 jupyter notebook Task1_Regression.ipynb
-```
 
----
 
-## 🎯 Objective
+
+##  Objective
 
 Analyse retail sales data using **linear algebra** and **regression techniques** to identify **trends**, **patterns**, and **predict future sales**.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * **Source:** `Sales_data.csv`
 * **Records:** ≥ 200
@@ -46,7 +43,7 @@ Analyse retail sales data using **linear algebra** and **regression techniques**
 
 ---
 
-## 🔍 Process
+##  Process
 
 ### **1. Data Preparation**
 
@@ -83,7 +80,7 @@ Analyse retail sales data using **linear algebra** and **regression techniques**
 
 ---
 
-## 📊 Results
+##  Results
 
 * **Strong positive correlation** between marketing expenditure, products sold, and sales amount
 * Model achieved a **good R² score**, indicating strong predictive capability
@@ -101,7 +98,7 @@ Analyse retail sales data using **linear algebra** and **regression techniques**
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The regression model provides **insights into factors influencing sales** and can be used for **forecasting** and **optimizing marketing budgets**.
 
@@ -109,13 +106,13 @@ The regression model provides **insights into factors influencing sales** and ca
 
 # Task 2 – Statistical Decision Making
 
-## 🎯 Objective
+##  Objective
 
 Analyse production data to identify **factors influencing product quality** using statistical techniques.
 
 ---
 
-## 📂 Process
+##  Process
 
 * **Clean and prepare the dataset**
   Removed missing or inconsistent values, standardized column formats.
@@ -134,7 +131,7 @@ Analyse production data to identify **factors influencing product quality** usin
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 * **Python**
 * **pandas**
@@ -146,12 +143,11 @@ Analyse production data to identify **factors influencing product quality** usin
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 Statistical analysis identified key variables that significantly affect product quality.
 Findings can be applied to **optimize production processes** and **reduce defect rates**.
 
-```
 
-If you want, I can now **add Task 3** in the same style so that you’ll have your *entire assignment in one README*. That will make it submission-ready.
-```
+
+
