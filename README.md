@@ -1,29 +1,16 @@
 
 
-````markdown
+
 # Sales Intelligence Project
 
 ## Getting Started
 To get started with the project, clone the repository and open the notebook.
 
-```bash
+
 git clone https://github.com/yourusername/sales-intelligence.git
 cd sales-intelligence
-````
 
 Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the Jupyter Notebooks:
-
-```bash
-jupyter notebook
-```
-
-
 
 # Task 1 – Basics of Data Analytics (Sales Data Analysis)
 
